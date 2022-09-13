@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For htu2x_sensor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+HTU2X                       KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getTemperature              KEYWORD2
+getHumidity	            KEYWORD2
+startSingleMeasure	    KEYWORD2
+getStatusReg                KEYWORD2
+setStatusReg                KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
+
+
+
+
