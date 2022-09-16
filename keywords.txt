@@ -15,8 +15,7 @@ HTU2X                       KEYWORD1
 getTemperature              KEYWORD2
 getHumidity	            KEYWORD2
 startSingleMeasure	    KEYWORD2
-getStatusReg                KEYWORD2
-setStatusReg                KEYWORD2
+setResolution               KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
